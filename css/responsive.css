@@ -1,0 +1,272 @@
+@media (max-width: 1199px){
+  .fram-team-icon {
+   padding: 8px 0;
+  }
+.fram-team-icon >ul li a{
+
+
+}
+
+
+@media (max-width: 991px) {
+  .farm-top{
+    display: none;
+  }
+  .fram-menu-logo{
+   display:block;
+
+  }
+  .fram-main-menu > ul{
+  	display: block;
+
+  }
+  .fram-main-menu{
+    background: #DADADA;
+    display: none;
+    position: absolute;
+    top:100px;
+    left: 0;
+    width: 100%;
+    display: ;
+    z-index: 888;
+  }
+    .fram-main-menu ul li a{
+        color:#000;
+    }
+  .fram-menu-icon{
+  	display: block;
+    text-align: right;
+     font-size: 40px;
+  }
+  .fram-menu-icon i.fa-times{
+    display: none;
+  }
+
+  .fram-middle-contain{
+    width: 80%;
+  	top:20%;
+  }
+  .fram-middle-contain h1{
+  	font-size: 50px;
+
+  }
+.fram-vegetable-tittle{
+  top:0px;
+}
+.fram-fruitS-tittle{
+  top:0px;
+}
+.fram-about-contain h2{
+	color:#263A4F;
+	font-size:35px;
+	margin: 0 20px 20px;
+}
+.fram-service-items{
+  margin-bottom: 30px;
+}
+.fram-team-icon {
+ padding: 35px 0;
+}
+.fram-team-contain{
+   margin-bottom: 30px;
+}
+.fram-blog{
+  margin-bottom: 400px;
+}
+.fram-blog-items{
+  margin-bottom: 50px;
+}
+.fram-footer-from{
+  padding:270px 0px;
+  display: block;
+  width: 300px;
+}
+.fram-page-adrees{
+  margin-bottom: 30px;
+}
+.social-icon{
+    margin-bottom: 30px;
+}
+.fram-blog-tittle h2{
+	font-size: 30px;
+}
+
+}
+@media (max-width: 779px){
+  .fram-blog{
+    margin-bottom: 800px;
+  }
+  .fram-team-icon {
+   padding: 70px 0;
+  }
+  .fram-team-icon >ul li a{
+    margin: 72px 10px;
+  }
+  .fram-team-info{
+    width: 70%;
+
+  }
+  .second{
+    margin-bottom: 350px;
+  }
+  .fram-footer-from{
+   padding:30px 100px ;
+  	width: 80%;
+  	bottom:0px;
+  	left:80px;
+  }
+  .abc{
+
+  	padding: 15px 65px 15px 10px;
+  	border: transparent;
+  	margin: 10px 60px 5px 0;
+    text-align: left;
+  }
+  .abc-2{
+    text-align: left;
+
+}
+
+@media (max-width: 640px) {
+  .fram-menu-logo{
+    margin-left: 20px;
+  }
+  .fram-footer-from{
+   padding:10px 100px ;
+   width: 100%;
+   bottom:0px;
+   left:0px;
+  }
+  .fram-footer-from h4{
+    padding-top: 40px;
+    text-align: center;
+  }
+  .fram-footer-from span{
+    padding: 0;
+    text-align: center;
+  }
+  .fram-footer-from p{
+    padding: 0;
+    text-align: center;
+  }
+  .abc{
+    margin: 0;
+    text-align: left;
+    display: inline-block;
+  }
+  .abc-2{
+    margin: 0;
+    text-align: center;
+    display: inline-block;
+    	padding:15px 20px;
+  }
+}
+@media (max-width: 769px){
+  .fram-vegetable-tittle{
+     left: 70px;
+     width: 80%;
+    }
+    .fram-fruitS-tittle{
+    	top:100%;
+    	left:70px;;
+    	width:80%;
+
+    }
+   .fram-header-bottom{
+       margin-bottom: 400px;
+   }
+
+   .fram-contain{
+     margin-right: 30px;
+     padding-right:40px;
+     display: block;
+     align-items: center;
+
+   }
+
+
+
+}
+@media (max-width: 779px){
+  .fram-team-info{
+		width: 100%;
+	}
+
+}
+@media (max-width: 578px){
+  .fram-middle-contain{
+
+   top:15%;
+  }
+  .fram-middle-contain h1{
+   font-size: 25px;
+  }
+  .hero-button-1{
+    padding:10px 20px;
+  }
+  .hero-button-2{
+
+    padding:10px 20px;
+  }
+
+  .fram-vegetable-tittle{
+     left:50px;
+     width: 70%;
+
+    }
+    .fram-fruitS-tittle{
+    	top:120%;
+      left:50px;
+    	width:70%;
+    }
+    .fram-blog-tittle h2{
+
+    	font-size: 20px;
+    }
+
+}
+@media (max-width: 578px){
+
+    .fram-fruitS-tittle{
+     top:80%;
+    }
+    .fram-header-bottom{
+      	padding-bottom: 500px;
+    }
+
+}
+@media (max-width: 525px){
+  .fram-team-icon {
+   height: 80%;
+   padding: 65px 0;
+
+  }
+  .fram-team-icon >ul li a{
+    margin: 45px 10px;
+  }
+}
+@media (max-width: 525px){
+  .fram-team-icon{
+		position:absolute;
+		top:0;
+		right:0;
+		width:20%;
+		height:100%;
+		background:rgba(51,51,51,.7);
+	}
+}
+@media (max-width: 440px){
+  .abc{
+    	padding: 15px 20px 15px 0px;
+      margin-right: 70px;
+      display: inline-block;
+  }
+  .fram-menu-logo h1{
+   font-size: 30px;
+   
+  }
+  .fram-menu-icon{
+  	font-size: 30px;
+
+  }
+}
